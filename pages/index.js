@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div>main branch</div>
+    <div>main branch 메인브랜치 입니다</div>
   )
 }
